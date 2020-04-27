@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7cd7fd6-f8e7-4ea7-9729-3c74796ed06f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mllib</find>
+      <find>jar</find>
+      <find>spark-ml</find>
+      <find>hive</find>
+    </findStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\repository_per" />
+        <option name="pluginUpdatePolicy" value="UPDATE" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settingsali.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1b5GtcsNVV8RVK7s6GWqg358zd6" />
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="io.netty.buffer&#9;PSI&#9;JAVA://io.netty.buffer.LargeBuffer&#10;Longs&#9;PSI&#9;JAVA://com.google.common.primitives.Longs&#10;findClass&#9;PSI&#9;JAVA://java.lang.ClassLoader#findClass&#10;Bayes&#9;FILE&#9;jar://D:/repository/org/apache/mahout/mahout-core/0.9/mahout-core-0.9-sources.jar!/org/apache/mahout/classifier/naivebayes/training/TrainNaiveBayesJob.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.36497697" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Hive2Mysql">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataClean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hiveclient.etl.DataClean" />
+      <module name="hiveclient" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hiveclient.etl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hiveclient.core.GenerateModel" />
+      <module name="hiveclient" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hiveclient.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hive2Mysql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hiveclient.visualization.Hive2Mysql" />
+      <module name="hiveclient" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hiveclient.visualization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hiveclient.util.ReadModel" />
+      <module name="hiveclient" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hiveclient.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GenerateModel" />
+      <item itemvalue="Application.DataClean" />
+      <item itemvalue="Application.ReadModel" />
+      <item itemvalue="Application.Hive2Mysql" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hive2Mysql" />
+        <item itemvalue="Application.ReadModel" />
+        <item itemvalue="Application.GenerateModel" />
+        <item itemvalue="Application.DataClean" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7cd7fd6-f8e7-4ea7-9729-3c74796ed06f" name="Default" comment="" />
+      <created>1554650792678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554650792678</updated>
+      <workItem from="1554650796889" duration="1686000" />
+      <workItem from="1554733729585" duration="4790000" />
+      <workItem from="1554813788881" duration="348000" />
+      <workItem from="1554815249481" duration="2885000" />
+      <workItem from="1554907499873" duration="2414000" />
+      <workItem from="1554990848441" duration="4070000" />
+      <workItem from="1555079980321" duration="718000" />
+      <workItem from="1555164518984" duration="9053000" />
+      <workItem from="1555232509772" duration="4473000" />
+      <workItem from="1555946175779" duration="2035000" />
+      <workItem from="1556022183309" duration="4295000" />
+      <workItem from="1556366852157" duration="7130000" />
+      <workItem from="1556853577750" duration="8900000" />
+      <workItem from="1557997642059" duration="3367000" />
+      <workItem from="1558056585450" duration="364000" />
+      <workItem from="1558056970468" duration="6396000" />
+      <workItem from="1558074019699" duration="818000" />
+      <workItem from="1558081518604" duration="8197000" />
+      <workItem from="1558141618859" duration="3811000" />
+      <workItem from="1558145487971" duration="4709000" />
+      <workItem from="1558160011717" duration="6230000" />
+      <workItem from="1558230318666" duration="3693000" />
+      <workItem from="1558234328944" duration="2593000" />
+      <workItem from="1558250687200" duration="868000" />
+      <workItem from="1558274004885" duration="626000" />
+      <workItem from="1558446454770" duration="661000" />
+      <workItem from="1558795029769" duration="2112000" />
+      <workItem from="1558862003360" duration="2268000" />
+      <workItem from="1559053170450" duration="283000" />
+      <workItem from="1559355230656" duration="11034000" />
+      <workItem from="1559399495663" duration="1154000" />
+      <workItem from="1559401201889" duration="1279000" />
+      <workItem from="1559642361695" duration="796000" />
+      <workItem from="1560131030960" duration="5635000" />
+      <workItem from="1560149280241" duration="625000" />
+      <workItem from="1587914762129" duration="1661000" />
+      <workItem from="1587981670286" duration="1652000" />
+      <workItem from="1587992939048" duration="1200000" />
+      <workItem from="1587994186678" duration="630000" />
+      <workItem from="1587994841359" duration="486000" />
+      <workItem from="1587995366284" duration="2828000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DataClean_getProperties - 2019.04.11 at 22h 00m 39s.xml">
+      <configuration name="DataClean.getProperties" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataClean_getProperties - 2019.04.11 at 22h 00m 57s.xml">
+      <configuration name="DataClean.getProperties" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataClean_getProperties - 2019.04.11 at 22h 01m 34s.xml">
+      <configuration name="DataClean.getProperties" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataClean_getProperties - 2019.04.11 at 22h 01m 58s.xml">
+      <configuration name="DataClean.getProperties" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataClean_getProperties - 2019.04.11 at 22h 02m 39s.xml">
+      <configuration name="DataClean.getProperties" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataClean_getProperties - 2019.04.11 at 22h 05m 21s.xml">
+      <configuration name="DataClean.getProperties" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataClean_getProperties - 2019.04.11 at 22h 08m 43s.xml">
+      <configuration name="DataClean.getProperties" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataClean_getProperties - 2019.04.11 at 22h 09m 13s.xml">
+      <configuration name="DataClean.getProperties" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataClean_getProperties - 2019.04.11 at 22h 25m 16s.xml">
+      <configuration name="DataClean.getProperties" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataClean_getStudentByID - 2019.04.09 at 21h 23m 50s.xml">
+      <configuration name="DataClean.getStudentByID" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
